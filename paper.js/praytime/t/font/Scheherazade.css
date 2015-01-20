@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Scheherazade';
+  font-style: normal;
+  font-weight: 400;
+  src: url(ScheherazadeRegOT.eot);
+  src: url(ScheherazadeRegOT.eot?#iefix) format('embedded-opentype'),
+	   url(ScheherazadeRegOT.woff2) format('woff2'),
+	   url(ScheherazadeRegOT.woff) format('woff'),
+	   url(ScheherazadeRegOT.ttf) format('truetype');
+}		
